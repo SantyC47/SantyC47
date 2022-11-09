@@ -1,4 +1,6 @@
   <b>Visits to the Profile</b> 
-   <br> 
+
+   <br>  
+
    <img src="https://profile-counter.glitch.me/santyc47/count.svg" /> 
  </p>
