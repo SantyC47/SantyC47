@@ -1,1 +1,6 @@
-"Al terminar el juego, el Rey y el Peón vuelven al mismo cajón"
+<p align="center"> 
+  Visitor count<br>
+  <b>Visits to the Profile</b>
+  <br>
+  <img src="https://profile-counter.glitch.me/marioalf2002/count.svg" />
+</p>
