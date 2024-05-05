@@ -4,9 +4,6 @@
   <br>
   <img src="https://profile-counter.glitch.me/santyc47/count.svg" />
 </p>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SantyC47/count.svg?"  />
-</div>
 
 ###
 
