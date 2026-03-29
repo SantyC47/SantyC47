@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://th.bing.com/th/id/R.68c4b6f9dab21e36d03bfca95bd4d288?rik=r9Hf9UedbYeXYg&riu=http%3a%2f%2fpa1.narvii.com%2f6226%2f9140ce2c2907c140d7a6b8b29ce2418592ae2bfd_00.gif&ehk=g4GqenB0KQJrGs4vpZX2UzRpufa2RoKveq%2fP1aLEi%2fY%3d&risl=&pid=ImgRaw&r=0"  />
+  <img height="200" src=""  />
 </div>
 
 ###
