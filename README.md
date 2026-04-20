@@ -1,9 +1,4 @@
-<p align="center"> 
-  Visitor count<br>
-  <b>Visits to the Profile</b>
-  <br>
-  <img src="https://profile-counter.glitch.me/santyc47/count.svg" />
-</p>
+
 
 ###
 
@@ -51,10 +46,3 @@
 
 <p align="left">I'm a systems enthusiast and video game enthusiast, just another asshole in the tech world.</p>
 
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
